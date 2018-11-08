@@ -11,7 +11,7 @@ Package: infwarerr ....-..-.. v... Providing info/warning/error messages (HO)
 )
 (../ifluatex.sty
 Package: ifluatex ....-..-.. v... Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package ifluatex Info: LuaTeX detected.
 )
 (../ltxcmds.sty
 Package: ltxcmds ....-..-.. v... LaTeX kernel commands for general use (HO)
@@ -19,8 +19,8 @@ Package: ltxcmds ....-..-.. v... LaTeX kernel commands for general use (HO)
 (../ifpdf.sty
 Package: ifpdf ....-..-.. v... Provides the ifpdf switch
 )
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks...
 ))
